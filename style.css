@@ -1,0 +1,22 @@
+.red{
+    color: tomato;
+}
+*{
+    text-align: center;
+    color: white;
+}
+body {
+    background-image: url(iot.jpg);
+    background-position: center;
+    background-size: cover;
+}
+button{
+    color: rgb(248, 241, 241);
+    margin: 10px;
+    background-color: transparent;
+    width: 100px;
+    height: 30px;
+}
+div{
+    margin: 20px;
+}
